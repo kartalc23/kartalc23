@@ -1,198 +1,177 @@
-<!-- ══════════════════════ HEADER ══════════════════════ -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Abdurrahman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%E2%80%A2%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=55&descSize=18" alt="header"/>
-
-<a href="https://github.com/kartalc23">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=console.log('Merhaba+D%C3%BCnya!+%F0%9F%91%8B');const+me+%3D+new+WebDeveloper();while(alive)+%7B+code();+coffee();+repeat();+%7D;404%3A+sleep+not+found" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kartalc23&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="views"/>
-<a href="https://github.com/kartalc23?tab=followers"><img src="https://img.shields.io/github/followers/kartalc23?label=Followers&style=for-the-badge&color=8E2DE2&labelColor=1a1b27" alt="followers"/></a>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-8E2DE2?style=for-the-badge&labelColor=1a1b27" alt="focus"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ WHOAMI ══════════════════════ -->
-
-## `$ whoami`
-
-```ts
-const abdurrahman = {
-  location : "Turkey 🇹🇷",
-  role     : "Web Developer",
-  code     : ["JavaScript", "TypeScript", "HTML", "CSS", "PHP"],
-  askMeAbout: ["web dev", "ui/ux", "responsive design", "clean code"],
-  currently: {
-    learning  : "everything the browser can throw at me",
-    building  : "things that load fast and look good",
-    debugging : "that one CSS rule that refuses to cooperate",
-  },
-  funFact  : "It's not a bug — it's an undocumented feature. 🐛",
-};
-
-// Warning: may spontaneously refactor working code.
+```console
+$ ssh abdurrahman@kartal
+```
+```log
+[    0.000000] Linux version 5.15.0-kartal (abdurrahman@istanbul)
+[    0.000001] Command line: root=/dev/coffee ro quiet splash
+[    0.412009] Initializing cgroup subsys motivation
+[    0.883141] ACPI: early table checksum verification disabled
+[    1.204558] loading module  javascript.ko ...... ok
+[    1.204901] loading module  typescript.ko ...... ok
+[    1.205334] loading module  css.ko ............. ok (7 warnings)
+[    1.209887] loading module  sleep.ko ........... FAILED (busy)
+[    1.884120] hub 1-0:1.0: 47 browser tabs detected, 47 retained
+[    2.550013] systemd[1]: Reached target Caffeinated.
+[    2.771902] kartal login: _
 ```
 
-<br/>
+```console
+$ cat /etc/motd
+```
+```
+   _                  _           _
+  | | __  __ _  _ __ | |_   __ _ | |
+  | |/ / / _` || '__|| __| / _` || |
+  |   < | (_| || |   | |_ | (_| || |
+  |_|\_\ \__,_||_|    \__| \__,_||_|
 
-<!-- ══════════════════════ ARSENAL ══════════════════════ -->
+  kartal  (n.)  Turkish for "eagle".
+                also: this machine.
+                also: me.
 
-## `$ cat tech-stack.json`
+  Last login: today, from a tab that should have been closed.
+```
 
-<div align="center">
+```console
+$ man abdurrahman
+```
+```troff
+ABDURRAHMAN(1)              User Commands             ABDURRAHMAN(1)
 
-### 🎨 &nbsp;Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&theme=dark" alt="frontend"/>
+NAME
+       abdurrahman - web developer, Turkey
 
-### ⚙️ &nbsp;Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,firebase&theme=dark" alt="backend"/>
+SYNOPSIS
+       abdurrahman [--coffee] [-v] [--no-meetings] <problem>
 
-### 🧰 &nbsp;Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,vercel,netlify,npm,postman&theme=dark" alt="tools"/>
+DESCRIPTION
+       Reads a vague requirement from stdin and writes a working
+       interface to stdout. Latency varies with caffeine.
 
-</div>
+OPTIONS
+       -v, --verbose
+              Explain the architecture. Twice. Unprompted.
 
-<br/>
+       --coffee
+              Required. Without it the process starts but does
+              not respond to signals.
 
-<!-- ══════════════════════ STATS ══════════════════════ -->
+       --no-meetings
+              Increases throughput by roughly 400%.
 
-## `$ git log --stat`
+EXIT STATUS
+       0      it works
+       1      it works on my machine
+       418    I'm a teapot, and it's 3 AM
 
-<div align="center">
+SEE ALSO
+       git-blame(1), stackoverflow(7), rm-rf(1)  [DEPRECATED]
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartalc23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartalc23&theme=tokyonight&hide_border=true&background=0D1117&stroke=8E2DE2&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="streak"/>
+BUGS
+       Refactors code that already worked. Known. Won't fix.
+```
 
-<br/><br/>
+```console
+$ ps aux --sort=-%mem
+```
+```yaml
+USER   PID  %CPU  %MEM  STAT  START   COMMAND
+abd    001  91.2  47.3  R     2019    side-project --never-finish
+abd    042  44.0  22.1  R+    08:14   css --center-a-div --retry
+abd    137  18.6   9.4  S     11:30   learn --everything --at-once
+abd    256   6.1   4.8  S     yester  refactor --scope=creeping
+abd    404   0.0   0.0  Z     ?       sleep 28800          [defunct]
+root   666   ---   ---  D     ?       node_modules --uninterruptible
+```
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartalc23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+```console
+$ df -h /skills
+```
+```yaml
+Filesystem       Size  Used  Avail  Use%  Mounted on
+javascript        47G   41G   6.0G   87%  /skills/js
+css               32G   30G   2.0G   94%  /skills/css
+html              28G   27G   1.0G   96%  /skills/html
+php               24G   17G   7.0G   71%  /skills/php
+git               16G   11G   5.0G   69%  /skills/git
+figma              8G  2.4G   5.6G   30%  /skills/design
+tmpfs            512M  511M   1.0M   99%  /skills/patience
 
-<br/><br/>
+df: '/skills/regex': permission denied
+```
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kartalc23&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+```console
+$ git log --oneline --author=abdurrahman
+```
+```gitattributes
+a1b2c3d  please work
+4e5f6a7  final FINAL i mean it this time
+8b9c0d1  revert "final v2"
+2f3a4b5  final v2
+6c7d8e9  final
+0a1b2c3  fix typo
+d4e5f6a  fix typo in the typo fix
+7b8c9d0  it was a missing semicolon. it is always a semicolon.
+1e2f3a4  do not touch this function, nobody knows why it works
+5a6b7c8  initial commit
+```
 
-</div>
-
-<br/>
-
-<!-- ══════════════════════ ACTIVITY ══════════════════════ -->
-
-## `$ tail -f contributions.log`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartalc23&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Heartbeat" alt="activity graph"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ SNAKE ══════════════════════ -->
-
-## `$ ./snake --eat-my-commits`
-
-<div align="center">
-
+```console
+$ crontab -l
+```
+```crontab
+# m  h        dom mon dow   command
+  0  */12     *   *   *     ./snake --eat-my-commits
+  0  3        *   *   *     /usr/bin/second-wind
+  0  9        *   *   1-5   echo "today I will finish it" > /dev/null
+```
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartalc23/kartalc23/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartalc23/kartalc23/output/snake.svg"/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kartalc23/kartalc23/output/snake.svg"/>
+  <img alt="a snake eating a year of commits" src="https://raw.githubusercontent.com/kartalc23/kartalc23/output/snake.svg"/>
 </picture>
 
-<sub><i>🐍 Yes, that snake is eating an entire year of my life. Every 12 hours. Automatically.</i></sub>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ QUOTE ══════════════════════ -->
-
-## `$ fortune | cowsay`
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ EASTER EGG ══════════════════════ -->
-
-<details>
-<summary><b>🎁 &nbsp;You actually clicked it. Respect. (open me)</b></summary>
-
-<br/>
-
+```console
+$ history | awk '{print $2}' | sort | uniq -c | sort -rn | head
 ```
-    ┌────────────────────────────────────────────────┐
-    │  $ sudo make me a sandwich                     │
-    │  > Okay.                                       │
-    │                                                │
-    │  $ npm install life --save                     │
-    │  > added 1 package, and audited 0 packages     │
-    │  > 47 vulnerabilities (12 moderate, 35 high)   │
-    │  > run `npm audit fix --force` to move to      │
-    │    Turkey and open a small café instead        │
-    │                                                │
-    │  $ git commit -m "final"                       │
-    │  $ git commit -m "final v2"                    │
-    │  $ git commit -m "final FINAL i mean it"       │
-    │  $ git commit -m "please work"                 │
-    │  > [main 1a2b3c4] please work ✅               │
-    └────────────────────────────────────────────────┘
+```yaml
+   4127  git
+   3308  npm
+   2214  cd
+   1902  clear
+    881  git   # (again, because the first one was staged wrong)
+    674  rm    -rf node_modules
+    673  npm   install
+    412  :q!
+     98  :wq
+      3  man
 ```
 
-**Bilinen bilgiler / Known facts:**
+```console
+$ uptime
+```
+```yaml
+ 03:47:12  up 6 years, 214 days,  1 user,  load average: 2.31, 1.88, 0.94
+```
 
-| Metric | Value |
-|:--|:--|
-| ☕ Coffee → Code conversion rate | `~1 cup / 100 LOC` |
-| 🐛 Bugs fixed by "have you tried refreshing?" | `alarmingly many` |
-| 🌙 Peak productivity hours | `23:00 – 04:00` |
-| 📚 Tabs currently open | `yes` |
-| 🎯 CSS centering success rate | `flex: 1` |
+```console
+$ ping abdurrahman
+```
+```yaml
+PING abdurrahman (github.com/kartalc23): 56 data bytes
+64 bytes from issues:  seq=0  ttl=64  time=fast
+64 bytes from pull-requests:  seq=1  ttl=64  time=faster
+64 bytes from a-well-written-bug-report:  seq=2  ttl=64  time=0.1 ms
 
-<br/>
+--- abdurrahman ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss
 
-> *"It works on my machine."* — me, deploying to production at 3 AM
+Open an issue. That is the whole protocol.
+```
 
-</details>
+```console
+$ exit
+logout
+Connection to kartal closed.
 
-<br/>
-
-<!-- ══════════════════════ CONNECT ══════════════════════ -->
-
-## `$ ping abdurrahman`
-
-<div align="center">
-
-<a href="https://github.com/kartalc23">
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=8E2DE2" alt="github"/>
-</a>
-<a href="https://github.com/kartalc23?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-1a1b27?style=for-the-badge&logo=git&logoColor=8E2DE2" alt="repos"/>
-</a>
-
-<br/><br/>
-
-<samp><b>Kolay gelsin! ⚡ Kod konuşmak istersen issue aç, orada buluşuruz.</b></samp>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=140&section=footer&text=thanks%20for%20scrolling%20%E2%9D%A4%EF%B8%8F&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75" alt="footer"/>
-
-<sub>⭐ <i>Star my repos — it's free and it makes my day.</i></sub>
-
-</div>
+# kolay gelsin
+```

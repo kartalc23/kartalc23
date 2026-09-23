@@ -4,6 +4,6 @@
 
 <br/><br/>
 
-<samp><b>kartal</b> <sub>(n.)</sub> — eagle &nbsp;·&nbsp; open an issue, that's the whole protocol</samp>
+<samp><b>kartal</b> <sub>(n.)</sub> — open an issue, that's the whole protocol</samp>
 
 </div>
